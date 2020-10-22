@@ -1,0 +1,10 @@
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\bin\Debug\netstandard2.0\Alura02.Modelos.deps.json
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\bin\Debug\netstandard2.0\Alura02.Modelos.dll
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\bin\Debug\netstandard2.0\Alura02.Modelos.pdb
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.AssemblyInfoInputs.cache
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.AssemblyInfo.cs
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.csproj.CoreCompileInputs.cache
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.dll
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.pdb
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\bin\Debug\netstandard2.0\Alura02.Modelos.xml
+C:\NovoG\Dev\source\CursoCS\Alura02\Alura02.Modelos\obj\Debug\netstandard2.0\Alura02.Modelos.csprojAssemblyReference.cache

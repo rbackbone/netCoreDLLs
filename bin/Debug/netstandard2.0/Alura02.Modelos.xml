@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Alura02.Modelos</name>
+    </assembly>
+    <members>
+        <member name="T:Alura02.Modelos.ContaCorrente">
+            <summary>
+            Define uma Conta Corrente 
+            </summary>
+        </member>
+        <member name="M:Alura02.Modelos.ContaCorrente.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Cria uma instância de ContaCorrente com os argumentos
+            </summary>
+            <param name="agencia">Valor deve ser maior que zero, propriedade <see cref="P:Alura02.Modelos.ContaCorrente.Agencia"/> </param>
+            <param name="numero">Valor deve ser maior que zero, propriedade <see cref="P:Alura02.Modelos.ContaCorrente.Numero"/></param>
+        </member>
+        <member name="M:Alura02.Modelos.ContaCorrente.Sacar(System.Double)">
+            <summary>
+            Realiza o saque e atuaiza o valor da propriedade <see cref="P:Alura02.Modelos.ContaCorrente.Saldo"/>
+            </summary>
+            <exception cref="T:System.ArgumentException">se parâmetro <paramref name="valor"/> é menor que ZERO </exception> 
+            <param name="valor"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

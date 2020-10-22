@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5uMdDFzoOpCrFIf6xTQxzm+7GkUXvR3s72IoBuoD0UHS3RB+e6yTP6ATFUx5FLOHzQ4iehPgpnMyT/arAoz8Q==",
+  "success": true,
+  "projectFilePath": "C:\\NovoG\\Dev\\source\\CursoCS\\Alura02\\Alura02.Modelos\\Alura02.Modelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rback\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rback\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
